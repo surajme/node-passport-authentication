@@ -3,9 +3,9 @@
 Usage
 * $ npm install
 * $ npm start
-#Or run with Nodemon
+ *Or run with Nodemon
 * $ npm run dev
 
-* MongoDB
+# MongoDB
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
 
